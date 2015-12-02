@@ -1,0 +1,16 @@
+<!-- See http://www.sublimetext.com/docs/snippets for more information -->
+<snippet>
+	<tabTrigger>if</tabTrigger>
+	<scope>source.spl</scope>
+	<description>If Condition</description>
+	<content><![CDATA[if (${1:}) then
+	
+
+${0:}
+endif;
+]]></content>
+</snippet>
+
+
+
+  

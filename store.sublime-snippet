@@ -1,0 +1,13 @@
+<!-- See http://www.sublimetext.com/docs/snippets for more information -->
+<snippet>
+	<tabTrigger>store</tabTrigger>
+	<scope>source.spl</scope>
+	<description>(page_number,block_number);</description>
+	<content><![CDATA[store(${1:});
+
+]]></content>
+</snippet>
+
+
+
+  

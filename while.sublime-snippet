@@ -1,0 +1,13 @@
+<!-- See http://www.sublimetext.com/docs/snippets for more information -->
+<snippet>
+	<tabTrigger>while</tabTrigger>
+	<scope>source.spl</scope>
+	<description>While Loop</description>
+	<content><![CDATA[while(${1:}) do
+
+
+${0:}
+endwhile;]]></content>
+  <tabTrigger>while</tabTrigger>
+</snippet>
+
